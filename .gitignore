@@ -1,0 +1,5 @@
+out/
+.idea 
+mamaven.iml
+pom.xml
+target
